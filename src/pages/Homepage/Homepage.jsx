@@ -63,7 +63,7 @@ const Homepage = () => {
           About Al Mesbar Textiles
         </h2>
         <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-8 items-center">
-          <div>
+          <div className="px-5">
             <p className="mb-4 text-justify">
               Al Mesbar Textiles is a premier textile company based in the UAE,
               offering high-quality, customizable garments to meet diverse
