@@ -50,7 +50,7 @@ const Homepage = () => {
               construction, medical, and food service industries — we weave
               excellence, durability, and style into every thread.
             </p>
-            <button className="btn bg-slate-700 border-none text-white shadow-none">
+            <button className="btn bg-slate-900 border-none text-white shadow-none">
               Explore Our Collections
             </button>
           </div>
