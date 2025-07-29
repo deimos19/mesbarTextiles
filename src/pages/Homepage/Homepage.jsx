@@ -258,7 +258,7 @@ const Homepage = () => {
           {/* Right Side Image */}
           <div>
             <img
-              src="https://bayshoremedicalsupply.net/wp-content/uploads/2021/09/tips-on-buying-your-first-set-of-nursing-uniforms-and-scrubs.jpg"
+              src="https://shccares.com/wp-content/uploads/2022/06/Scrubs-pros-and-cons-header.jpg"
               alt="Medical Uniforms"
               className="w-full h-full object-cover rounded shadow"
             />

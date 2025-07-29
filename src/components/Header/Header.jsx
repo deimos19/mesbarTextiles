@@ -21,11 +21,12 @@ const Header = () => {
             </div>
             <ul
               tabIndex={0}
-              className="menu menu-sm dropdown-content bg-base-100 rounded-box z-10 mt-3 w-52 p-2 shadow"
+              className="menu menu-sm dropdown-content bg-slate-300 rounded-box z-10 mt-3 w-52 p-2 shadow"
             >
-              <li><a>Homepage</a></li>
-              <li><a>Portfolio</a></li>
+              <li><a>Home</a></li>
+              <li><a>Contact Us</a></li>
               <li><a>About</a></li>
+              <li><a>Jobs</a></li>
             </ul>
           </div>
         </div>
