@@ -258,9 +258,9 @@ const Homepage = () => {
           {/* Right Side Image */}
           <div>
             <img
-              src="https://www.icegif.com/wp-content/uploads/2023/10/icegif-936.gif"
+              src="https://bayshoremedicalsupply.net/wp-content/uploads/2021/09/tips-on-buying-your-first-set-of-nursing-uniforms-and-scrubs.jpg"
               alt="Medical Uniforms"
-              className="w-full h-110 object-cover rounded shadow"
+              className="w-full h-full object-cover rounded shadow"
             />
           </div>
         </div>

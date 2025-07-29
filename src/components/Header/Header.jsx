@@ -60,7 +60,7 @@ const Header = () => {
         <span className="hidden lg:inline mx-2">|</span>
         <p><strong><i class="bi bi-geo-alt mx-1"></i></strong> Exhibition Showroom 2, Ajman Industrial 2 P.O. Box 9260, Ajman UAE</p>
         <span className="hidden lg:inline mx-2">|</span>
-        <p><strong><i class="bi bi-telephone mx-1"></i></strong> +971528524737</p>
+        <p><strong><i class="bi bi-telephone mx-1"></i></strong> +971528524737 , +971552991278</p>
       </div>
     </>
   );
