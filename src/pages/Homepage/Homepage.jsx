@@ -39,8 +39,8 @@ const Homepage = () => {
       >
         <div className="hero-overlay bg-opacity-60"></div>
 
-        <div className="hero-content text-neutral-content">
-          <div className="max-w-5xl text-left p-5">
+        <div className="hero-content text-neutral-content bg-slate-800/50">
+          <div className="max-w-5xl text-left p-10 ">
             <h1 className="mb-5 text-5xl font-bold">
               Welcome to Al Mesbar Textiles
             </h1>
@@ -77,6 +77,7 @@ const Homepage = () => {
               our showroom in Ajman or get in touch to explore our exclusive
               collections and tailored services.
             </p>
+
             <div className="stats shadow mt-3 w-full">
               <div className="stat place-items-center">
                 <div className="stat-value text-primary">
